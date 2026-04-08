@@ -46,39 +46,39 @@
   onlyWhitelisted: false
   points:
     Hair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     FacialHair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Tail:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ LizardTailSmooth ]
     Snout:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ LizardSnoutRound ]
     HeadTop:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     HeadSide:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     UndergarmentTop:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     UndergarmentBottom:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Chest:
-      points: 4 # imp 3<4
+      points: 10 #HL modifcation
       required: false
     Legs:
-      points: 8 # imp 2<8
+      points: 10 #HL modifcation
       required: false
     Arms:
-      points: 8 # imp 2<8
+      points: 10 #HL modifcation
       required: false
 
 - type: humanoidBaseSprite

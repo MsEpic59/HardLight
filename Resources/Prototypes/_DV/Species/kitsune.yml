@@ -43,34 +43,34 @@
   onlyWhitelisted: false
   points:
     Hair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     FacialHair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Snout:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Tail:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ KitsuneTailDefault ]
     HeadTop:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ KitsuneEarsDefault ]
     UndergarmentTop:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     UndergarmentBottom:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Chest:
-      points: 6
+      points: 10 #HL modifcation
       required: false
     Legs:
-      points: 6
+      points: 10 #HL modifcation
       required: false
     Arms:
-      points: 6
+      points: 10 #HL modifcation
       required: false

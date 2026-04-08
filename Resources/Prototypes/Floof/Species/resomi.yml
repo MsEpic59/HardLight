@@ -55,20 +55,20 @@
       points: 0
       required: false
     Tail:
-      points: 2
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ ResomiTail, ResomiTailFeathers ]
     Legs:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     Arms:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     Head:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     Chest:
-      points: 1
+      points: 10 #HL modifcation
       required: false
 
 - type: humanoidBaseSprite

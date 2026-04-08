@@ -12,33 +12,33 @@
   id: MobFelinidMarkingLimits
   points:
     Hair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     FacialHair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Tail:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ FelinidTailBasic ]
     HeadTop:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ FelinidEarsBasic ]
     Chest:
-      points: 4 # Frontier 1<4
+      points: 10 #HL modifcation
       required: false
     Legs:
-      points: 8 # Frontier 2<8
+      points: 10 #HL modifcation
       required: false
     Arms:
-      points: 8 # Frontier 2<8
+      points: 10 #HL modifcation
       required: false
     # Frontier: apparently these don't exist on Delta
     UndergarmentTop:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     UndergarmentBottom:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     # End Frontier

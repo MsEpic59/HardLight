@@ -45,36 +45,36 @@
   onlyWhitelisted: false
   points:
     Hair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     FacialHair:
       points: 0
       required: false
     Tail:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ ChitinidWingsDefault ]
     Snout:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     HeadTop:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ ChitinidAntennasDefault ]
     HeadSide:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Head:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Chest:
-      points: 3
+      points: 10 #HL modifcation
       required: false
     Legs:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     Arms:
-      points: 2
+      points: 10 #HL modifcation
       required: false
 
 - type: humanoidBaseSprite

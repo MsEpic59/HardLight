@@ -48,40 +48,40 @@
   id: MobHumanMarkingLimits
   points:
     Special: # the cat ear joke
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Hair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     FacialHair:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Snout:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Tail: # HL makes this one
-      points: 1
+      points: 10
       required: false
     HeadTop:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     UndergarmentTop:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     UndergarmentBottom:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Genital:
       points: 35
       required: false
     Chest:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Legs:
-      points: 8 # imp 2<8
+      points: 10 #HL modifcation
       required: false
     Arms:
-      points: 8 # imp 2<8
+      points: 10 #HL modifcation
       required: false
 
 - type: humanoidBaseSprite

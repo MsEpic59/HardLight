@@ -51,31 +51,31 @@
       points: 0
       required: false
     Head:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     HeadTop:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     HeadSide:
-      points: 3
+      points: 10 #HL modifcation
       required: false
     UndergarmentTop:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     UndergarmentBottom:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Chest:
-      points: 1
+      points: 10 #HL modifcation
       required: false
     Legs:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     Arms:
-      points: 2
+      points: 10 #HL modifcation
       required: false
     Overlay:
-      points: 1
+      points: 10 #HL modifcation
       required: true
       defaultMarkings: [ DionaVineOverlay ]
 
