@@ -43,14 +43,14 @@
   id: MobVulpkaninMarkingLimits
   points:
     Hair:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     FacialHair:
-      points: 10 #HL modifcation
+      points: 1
       onlyWhitelisted: true # Beards lack displacement maps and are impossible to displace onto a snout.
       required: false
     Snout:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ FoxSnout ] # Starlight
     # HardLight
@@ -58,30 +58,30 @@
     #  points: 3
     #  required: false
     Tail:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ FoxTail ] # Starlight
     Head:
-      points: 10 #HL modifcation
+      points: 3
       required: false
     HeadTop:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ FoxEar ] # Starlight
     UndergarmentTop:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     UndergarmentBottom:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     Genital:
       points: 35
       required: false
     Arms:
-      points: 10 #HL modifcation
+      points: 6
       required: false
     Legs:
-      points: 10 #HL modifcation
+      points: 6
       required: false
 
 # Starlight start

@@ -59,36 +59,36 @@
       points: 0
       required: false
     UndergarmentTop:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     UndergarmentBottom:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     Genital:
       points: 35
       required: false
     Tail:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ AvaliTailBase ]
     Snout:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     HeadTop:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     HeadSide:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ AvaliEarsBase ]
     Chest:
-      points: 10 #HL modifcation
+      points: 6
       required: false
     Legs:
-      points: 10 #HL modifcation
+      points: 6
       required: false
     Arms:
-      points: 10 #HL modifcation
+      points: 6
       required: false
 
 - type: humanoidBaseSprite

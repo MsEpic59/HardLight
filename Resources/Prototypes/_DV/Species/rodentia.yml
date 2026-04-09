@@ -44,33 +44,33 @@
   id: MobRodentiaMarkingLimits
   points:
     Hair:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     FacialHair:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     Tail:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ RodentiaTailDefault ]
     Legs:
-      points: 10 #HL modifcation
+      points: 4
       required: false
     Arms:
-      points: 10 #HL modifcation
+      points: 4
       required: false
     Snout:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     HeadTop:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ RodentiaHeadTopEarDefault ]
     HeadSide:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     Chest:
-      points: 10 #HL modifcation
+      points: 2
       required: false
 
 - type: humanoidBaseSprite

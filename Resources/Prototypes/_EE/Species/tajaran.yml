@@ -12,33 +12,33 @@
   id: MobTajaranMarkingLimits
   points:
     Hair:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     FacialHair:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     Tail:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ TajaranTailRetro ]
     HeadTop:
-      points: 10 #HL modifcation
+      points: 1
       required: true
       defaultMarkings: [ TajaranEarsBasic ]
     Chest:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     Legs:
-      points: 10 #HL modifcation
+      points: 6
       required: false
     Arms:
-      points: 10 #HL modifcation
+      points: 6
       required: false
     UndergarmentBottom:
-      points: 10 #HL modifcation
+      points: 1
       required: false
     UndergarmentTop:
-      points: 10 #HL modifcation
+      points: 1
       required: false
 
 - type: speciesBaseSprites
