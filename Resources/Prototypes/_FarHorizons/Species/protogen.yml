@@ -47,13 +47,13 @@
       required: true
       defaultMarkings: [ ProtogenMediumArmor, ProtogenLights, ProtogenLEDFace, ProtogenVisor ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
@@ -64,13 +64,13 @@
       required: true
       defaultMarkings: [ ProtogenEars ]
     Chest:
-      points: 1 #HL modifcation
+      points: 10 #HL modifcation, 1<10
       required: false
     Legs:
-      points: 8 #HL modifcation
+      points: 10 #HL modifcation, 8<10
       required: false
     Arms:
-      points: 8 #HL modifcation
+      points: 10 #HL modifcation, 8<10
       required: false
 
 - type: humanoidBaseSprite
@@ -220,13 +220,13 @@
       required: true
       defaultMarkings: [ ProtoVulpMediumArmor, ProtoVulpVisor, ProtoVulpLights, ProtoVulpLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
@@ -237,16 +237,16 @@
       required: true
       defaultMarkings: [ FoxEar ]
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 - type: humanoidBaseSprite
@@ -392,32 +392,32 @@
       required: true
       defaultMarkings: [ ProtoVoxMediumArmor, ProtoVoxVisor, ProtoVoxLights, ProtoVoxLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
       required: true
       defaultMarkings: [ VoxTail ]
     HeadTop:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 1<10
       required: false
     Chest:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 - type: humanoidBaseSprite
@@ -481,31 +481,31 @@
       required: true
       defaultMarkings: [ ProtoThavenMediumArmor, ProtoThavenVisor, ProtoThavenLights, ProtoThavenLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     HeadTop:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 #region LASPI ####
@@ -557,31 +557,31 @@
       required: true
       defaultMarkings: [ ProtoSlimePersonMediumArmor, ProtoSlimePersonVisor, ProtogenLights, ProtoSlimePersonLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     HeadTop:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 4
+      points: 10 #HL 4<10
       required: false
     Arms:
-      points: 4
+      points: 10 #HL 4<10
       required: false
 
 #region SHADEKIN ####
@@ -641,13 +641,13 @@
       required: true
       defaultMarkings: [ ProtoKinMediumArmor, ProtoKinVisor, ProtoKinLights, ProtoKinLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
@@ -658,16 +658,16 @@
       required: true
       defaultMarkings: [EarsShadekin]
     Head:
-      points: 2
+      points: 10 #HL 1<10
       required: false
     Chest:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 #region RESOMI ####
@@ -732,31 +732,31 @@
       required: true
       defaultMarkings: [ ProtoResomiMediumArmor, ProtoResomiVisor, ProtoResomiLights, ProtoResomiLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     HeadTop:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 #region REPTILIAN ####
@@ -777,7 +777,7 @@
   femaleFirstNames: NamesReptilianFemale
   naming: FirstDashFirst
   loadout: ProtogenLoadout
-  
+
 - type: speciesBaseSprites
   id: MobProtoReptileSprites
   sprites:
@@ -818,26 +818,26 @@
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
       required: true
       defaultMarkings: [ LizardTailSmooth ]
     HeadTop:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 #region MOTH ####
@@ -858,7 +858,7 @@
   femaleFirstNames: NamesMothFirstFemale
   lastNames: NamesMothLast
   loadout: ProtogenLoadout
-  
+
 - type: speciesBaseSprites
   id: MobProtoMothSprites
   sprites:
@@ -899,26 +899,26 @@
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
-      points: 2
+      points: 10 #HL 2<10
       required: false # if you want to combine a tail with a wing, needs to turn off requirment. Wingless moths..
     HeadTop:
       points: 1
       required: true
       defaultMarkings: [ MothAntennasDefault ]
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 #region HUMAN ####
@@ -936,7 +936,7 @@
   subspeciesOf: Protogen
   subspeciesName: subspecies-name-protohumie
   loadout: ProtogenLoadout
-  
+
 - type: speciesBaseSprites
   id: MobProtoHumieSprites
   sprites:
@@ -970,31 +970,31 @@
       required: true
       defaultMarkings: [ ProtogenMediumArmor, ProtogenVisorRound, ProtogenLights, ProtogenLEDFaceRound ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     HeadTop:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 #region FELINID ####
@@ -1050,32 +1050,32 @@
       required: true
       defaultMarkings: [ ProtoFelineMediumArmor, ProtoFelineVisor, ProtoFelineLights, ProtoFelineLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
       required: true
       defaultMarkings: [ FelionoidTailAnimated ]
     HeadTop:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 4
+      points: 10 #HL 4<10
       required: false
     Arms:
-      points: 4
+      points: 10 #HL 4<10
       required: false
 
 #region DWARF ####
@@ -1102,31 +1102,31 @@
       required: true
       defaultMarkings: [ ProtogenMediumArmor, ProtogenVisorRound, ProtogenLights, ProtogenLEDFaceRound ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
-      points: 1 # dwarfs and beards go together like milk and cookies
+      points: 10 # dwarfs and beards go together like milk and cookies, HL 1<10
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     HeadTop:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 #region DIONA ####
@@ -1183,34 +1183,34 @@
       required: true
       defaultMarkings: [ ProtoDionaeMediumArmor, ProtoDionaeVisor, ProtoDionaeLights, ProtoDionaeLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     HeadTop:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Overlay:
-      points: 2
+      points: 10 #HL 2<10
       required: false
 
 #region AVALI ####
@@ -1271,36 +1271,36 @@
       required: true
       defaultMarkings: [ ProtoAvaliMediumArmor, ProtoAvaliVisor, ProtoAvaliLights, ProtoAvaliLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
       required: true
       defaultMarkings: [ AvaliTailBase ]
     HeadTop:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     HeadSide:
       points: 1
       required: true
       defaultMarkings: [ AvaliEarsBase ]
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 4
+      points: 10 #HL 4<10
       required: false
 
 #region ARACHNID ####
@@ -1358,34 +1358,34 @@
       required: true
       defaultMarkings: [ ProtogenMediumArmor, ProtoArachnidVisor, ProtogenLights, ProtoArachnidLEDFace ]
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
       points: 0
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
       required: true
       defaultMarkings: [ ArachnidAppendagesDefault ]
     HeadTop:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Head:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     HeadSide:
       points: 1
       required: true
       defaultMarkings: [ ArachnidCheliceraeDownwards ]
     Chest:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 2
+      points: 10 #HL 2<10
       required: false

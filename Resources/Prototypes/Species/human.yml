@@ -51,37 +51,37 @@
       points: 1
       required: false
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Snout:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail: # HL makes this one
-      points: 1
+      points: 10 #HL 1<10
       required: false
     HeadTop:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     UndergarmentTop:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     UndergarmentBottom:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Genital:
       points: 35
       required: false
     Chest:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Legs:
-      points: 8 # imp 2<8
+      points: 10 # imp 2<8, HL 8<10
       required: false
     Arms:
-      points: 8 # imp 2<8
+      points: 10 # imp 2<8, HL 8<10
       required: false
 
 - type: humanoidBaseSprite

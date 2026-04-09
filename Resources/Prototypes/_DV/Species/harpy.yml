@@ -42,10 +42,10 @@
   id: MobHarpyMarkingLimits
   points:
     Hair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     FacialHair:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     Tail:
       points: 1
@@ -57,10 +57,10 @@
       defaultMarkings: [ HarpyEarsDefault ]
     # Frontier: apparently these don't exist on Delta
     UndergarmentTop:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     UndergarmentBottom:
-      points: 1
+      points: 10 #HL 1<10
       required: false
     # End Frontier
     Chest:
@@ -68,10 +68,10 @@
       required: true
       defaultMarkings: [ HarpyChestDefault ]
     Legs:
-      points: 2
+      points: 10 #HL 2<10
       required: false
     Arms:
-      points: 1
+      points: 10 #HL 1<10
       required: false
       defaultMarkings: [ HarpyWingDefaultHuescale ]
 
