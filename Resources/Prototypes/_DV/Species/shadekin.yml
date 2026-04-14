@@ -32,7 +32,7 @@
     Breasts: MobHumanoidAnyMarking
     Chest: MobShadekinTorso
     HeadTop: MobShadekinAnyMarking
-    HeadSide: MobShadekinAnyMarkingFollowSkin
+    HeadSide: MobHumanoidAnyMarking
     Tail: MobShadekinAnyMarking
     Eyes: MobShadekinEyes
     LArm: MobShadekinLArm
@@ -43,6 +43,7 @@
     RLeg: MobShadekinRLeg
     LFoot: MobShadekinLFoot
     RFoot: MobShadekinRFoot
+    RArmExtension: MobHumanoidAnyMarking # Hardlight: enables harpy/bat wings
 
 - type: markingPoints
   id: MobShadekinMarkingLimits
