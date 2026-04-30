@@ -226,13 +226,12 @@
   logins:
   - Notarin
 
-  - type: company
-    id: CERUL
-    form: Protagonist
-    name: The Cerulean Collective
-    color: "#0009ff" # blue
-    disabled: false
-
+- type: company
+  id: CERUL
+  form: Protagonist
+  name: The Cerulean Collective
+  color: "#0009ff" # blue
+  disabled: false
 # ====Rogue / Antag. Companies====
 - type: company
   id: TheViperGroup
