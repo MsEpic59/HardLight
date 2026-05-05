@@ -203,5 +203,5 @@
       defaultChannel: CeruleanCollective
     - type: Sprite
       layers:
-        - state: crypt_blue
+        - state: crypt_black
         - state: cerul_label
