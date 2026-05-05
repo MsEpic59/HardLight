@@ -218,6 +218,12 @@
   color: "#89CFF0" # Light Blue
 
 - type: company
+  id: CERUL
+  form: Protagonist
+  name: Cerulean Collective
+  color: "#0009ff" # deep blue
+
+- type: company
   id: AED
   form: Protagonist
   name: Andromeda Engineering & Development # See https://discord.com/channels/1380477227912925194/1482867383592030462
@@ -225,13 +231,7 @@
   disabled: true # Open to devs, technical oriented mappers, and architecture oriented engineers.
   logins:
   - Notarin
-
-- type: company
-  id: CERUL
-  form: Protagonist
-  name: The Cerulean Collective
-  color: "#0009ff" # blue
-  disabled: false
+  
 # ====Rogue / Antag. Companies====
 - type: company
   id: TheViperGroup
