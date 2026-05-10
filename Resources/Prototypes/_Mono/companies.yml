@@ -222,6 +222,22 @@
   form: Protagonist
   name: Cerulean Collective
   color: "#0009ff" # deep blue
+  disabled: true
+  logins: # based on https://docs.google.com/spreadsheets/d/1PtsJXzuLuylBiLF4VJAmTIxuBhr3YwDnMBGYAN9hsMo/edit?usp=sharing
+  - MsEpic
+  - orhu
+  - Usuala
+  - Paintminer
+  - Sempervali
+  - TECK
+  - Lyruun
+  - ShadesMars
+  - MallowSune
+  - ladyxahte
+  - henryboiye
+  - kabuki
+  - hammeredmantis
+  - FrogVoid
 
 - type: company
   id: AED
