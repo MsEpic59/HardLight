@@ -190,18 +190,3 @@
       layers:
         - state: crypt_purple
         - state: duskenclave_label
-
-- type: entity
-  parent: [EncryptionKey, RecyclableItemDeviceTiny]
-  id: EncryptionKeyCeruleanCollective
-  name: Cerulean Collective Encryption Key
-  description: An encyption key used to link into the Cerulean Collective Network.
-  components:
-    - type: EncryptionKey
-      channels:
-        - CeruleanCollective
-      defaultChannel: CeruleanCollective
-    - type: Sprite
-      layers:
-        - state: crypt_black
-        - state: cerul_label
